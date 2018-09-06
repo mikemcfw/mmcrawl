@@ -52,7 +52,7 @@ and from the context menu select menu item
 The application takes a single parameter , specifying the name of the starting URL as input:
 
 i.e. 
-	java -classpath ... com.wiprodigital.mmcrawl.AppJava https://wiprodigital.com
+	java -classpath ... com.wiprodigital.mmcrawl.App https://wiprodigital.com
 
 ## Trades Off / Future Development
 
